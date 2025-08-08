@@ -7,6 +7,8 @@ An interactive, multi-model health risk assessment app built with **Streamlit**,
 - 📄 **Export to PDF/CSV** — generates branded reports for download
 - 📊 **Session History Logging** — all inputs and scores stored per session
 
+- live test url: https://health-risk-calculator.streamlit.app
+
 > This app demonstrates UI development, session state handling, tabbed interfaces, PDF generation, and simplified health risk modeling.
 
 ---
