@@ -1,4 +1,4 @@
-# 🧠 Health Risk Calculator
+# Health Risk Calculator
 
 An interactive, multi-model health risk assessment app built with **Streamlit**, supporting:
 
